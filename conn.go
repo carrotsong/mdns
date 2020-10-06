@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 	"golang.org/x/net/dns/dnsmessage"
 	"golang.org/x/net/ipv4"
 )
